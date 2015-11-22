@@ -1,0 +1,91 @@
+Bảng 1  Liệt kê các nguyên tắc chung
+
+GP	Nguyên tắc chung	Pass / Fail / NA
+GP.1	Mỗi hành động làm thay đổi dữ liệu của người sử dụng hoặc cài đặt ứng dụng có thể được hoàn tác.	
+GP.2	Tất cả các thiết lập ứng dụng có thể được khôi phục về mặc định mà không cần người dùng phải nhớ.	
+GP.3	Sau khi cài đặt, ứng dụng có thể tự động chạy được ngay.	
+GP.4	Các chức năng thường xuyên được sử dụng nhất được tìm thấy ở cấp cao nhất của cấu trúc menu.	
+
+Bảng 2  Danh sách kiểm tra hướng Keyboard
+KN	Keyboard Navigation	Pass  / Fail / NA
+KN.1	Truy cập bàn phím hiệu quả được cung cấp cho tất cả các tính năng của ứng dụng.	
+KN.2	Tất cả các cửa sổ có một trật tự bàn phím hợp lý.	
+KN.3	Thứ tự tab chính xác được sử dụng để điều khiển, các yêu cầu phụ thuộc vào các hộp kiểm, các nút radio hoặc nút bật tắt.	
+KN.4	Bàn phím truy cập vào các chức năng ứng dụng cụ thể không ghi đè lên hệ thống tính năng tiếp cận hiện có.	
+KN.5	Ứng dụng cung cấp nhiều hơn một phương pháp để thực hiện nhiệm vụ bàn phím bất cứ khi nào có thể.	
+KN.6	Có tổ hợp phím thay thế bất cứ nơi nào có thể.	
+		
+KN.7	Các ứng dụng không sử dụng lặp đi lặp lại, bấm phím đồng thời.	
+		
+KN.8	Bất kỳ văn bản hoặc đối tượng có thể được lựa chọn bằng chuột cũng có thể được lựa chọn với bàn phím một mình.	
+KN.9	Bất kỳ đối tượng có thể được thay đổi kích thước hoặc di chuyển với chuột cũng có thể thay đổi kích thước hoặc di chuyển với bàn phím một mình.	
+KN.10	Các ứng dụng không sử dụng bất kỳ chức năng chuyển hướng chung để kích hoạt hoạt động.	
+KN.11	Tất cả các bàn phím gọi menu, cửa sổ và chú giải công cụ xuất hiện gần các đối tượng có liên quan đến.	
+
+Bảng 3  Danh sách kiểm tra tương tác chuột
+MI	Chuột Tương tác	Pass  / Fail / NA
+MI.1	Không hoạt động phụ thuộc vào đầu vào từ bên phải hoặc giữa các nút chuột.	
+MI.2	Tất cả các hoạt động chuột có thể được hủy bỏ trước khi chúng được hoàn.	
+MI.3	Hình ảnh phản hồi được cung cấp trong suốt quá trình kéo và thả các hoạt động	
+MI.4	Các con trỏ chuột là không bao giờ bị biến dạng dưới sự kiểm soát ứng dụng, hoặc chuyển động của nó bị giới hạn một phần của màn hình của ứng dụng.	
+
+Bảng 4  Liệt kê đồ họa Elements
+
+GE	Đồ họa Elements	Pass  / Fail / NA
+GE.1	Có các thuộc tính đồ họa không có mã hóa cứng như dây chuyền, biên giới, độ dày bóng.	
+		
+GE.2	Tất cả các yếu tố giao diện tương tác rất dễ dàng phân biệt các yếu tố GUI tĩnh.	
+GE.3	Lựa chọn giấu đồ họa không cần thiết được cung cấp.	
+
+Bảng 5  Fonts và danh sách kiểm tra văn bản
+FT	Phông chữ và văn bản	Pass  / Fail / NA
+FT.1	Không có phong cách chữ hoặc kích thước được mã hóa cứng.	
+FT.2	Một tùy chọn để tắt phông nền đồ họa đằng sau văn bản được cung cấp.	
+FT.3	Tất cả các nhãn có tên phải có ý nghĩa khi đưa ra khỏi ngữ cảnh.	
+FT.4	Không có tên nhãn được sử dụng nhiều hơn một lần trong cùng một cửa sổ.	
+FT.5	Định vị nhãn là nhất quán trong suốt các ứng dụng.	
+FT.6	Tất cả các nhãn văn bản tĩnh xác định các điều khiển kết thúc bằng một dấu hai chấm (:).	
+FT.7	Nhãn văn bản tĩnh mà xác định các điều khiển ngay lập tức trước những người điều khiển theo thứ tự tab.	
+FT.8	Một thay thế cho WYSIWYG được cung cấp. Ví dụ, khả năng xác định màn hình và máy in khác nhau phông chữ trong một trình soạn thảo văn bản.	
+
+Bảng 6  Màu sắc và danh sách kiểm tra độ tương phản
+CC	Màu sắc và độ tương phản	Pass  / Fail / NA
+CC.1	Màu sắc ứng dụng không được mã hóa cứng, nhưng được rút ra từ một trong hai chủ đề hiện tại hoặc thiết lập một ứng dụng.	
+CC.2	Màu chỉ được sử dụng như một phụ kiện, và không phải là phương tiện duy nhất để truyền đạt thông tin hay hành động.	
+CC.3	Ứng dụng này hỗ trợ tất cả các chủ đề tương phản cao có sẵn và cài đặt.	
+CC.4	Các phần mềm không phụ thuộc vào bất kỳ chủ đề tương phản cao đặc biệt hoặc cài đặt.	
+
+Bảng 7  Danh sách kiểm tra phóng đại
+
+MG	Độ phóng đại	Pass / Fail / NA
+MG.1	Ứng dụng này cung cấp khả năng phóng to khu vực làm việc.	
+MG.2	Ứng dụng cung cấp các tùy chọn để mở rộng quy mô các khu vực làm việc.	
+MG.3	Chức năng của ứng dụng không bị ảnh hưởng bởi việc thay đổi các thiết lập độ phóng đại hoặc quy mô.	
+
+Bảng 8  Danh sách kiểm tra âm thanh
+
+AU	Âm thanh	Pass / Fail / NA
+AU.1	Âm thanh không được sử dụng như phương tiện duy nhất để truyền đạt bất kỳ các mục thông tin.	
+AU.2	Người dùng có thể cấu hình các tần số và khối lượng của tất cả các âm thanh và tiếng bíp cảnh báo.	
+
+Bảng 9  Danh sách kiểm tra Focus Keyboard
+KF	Bàn phím Focus	Pass  / Fail / NA
+KF.1	Khi một cửa sổ được mở ra, tập trung kiểm soát được sử dụng.	
+KF.2	Hiện tại vị trí tập trung đầu vào rõ ràng được hiển thị ở tất cả các lần.	
+KF.3	Đầu vào trọng tâm được thể hiện trong đúng một cửa sổ ở tất cả các lần.	
+KF.4	Âm thanh thích hợp hoặc phản hồi trực quan được cung cấp khi người dùng cố gắng để di chuyển qua hai đầu của một nhóm đối tượng có liên quan.	
+KF.5	Các âm thanh mặc định hoặc tín hiệu cảnh báo trực quan được  phát khi người dùng nhấn một phím không phù hợp.	
+KF.6	Có đầy đủ thông tin âm thanh để tập trung thị giác để người sử dụng có thể tìm ra những gì cần làm tiếp theo.	
+KF.7	Khi sử dụng công nghệ hỗ trợ, chẳng hạn như một trình đọc màn hình hoặc thiết bị chữ nổi, các chương trình hiện tại chỉ ra vị trí và nội dung của chỉ thị tập trung thị giác.	
+
+Bảng 10  Danh sách kiểm tra Timing
+TM	Timing	Pass / Fail / NA
+TM.1	Không có mã hóa cứng thời time-outs hoặc các tính năng dựa trên thời gian trong ứng dụng.	
+TM.2	Màn hình hiển thị hoặc ẩn các thông tin quan trọng không được kích hoạt chỉ bằng chuyển động của con trỏ chuột.	
+
+Bảng 11  Danh mục Tài liệu
+DC	Tài liệu	Pass  / Fail / NA
+DC.1	Tất cả các tài liệu có định dạng dễ tiếp cận, với mô tả văn bản thay thế cung cấp cho tất cả các số liệu và biểu đồ.	
+DC.2	Các tài liệu một phần đó bao gồm tất cả các tính năng truy cập của ứng dụng.	
+	
+
